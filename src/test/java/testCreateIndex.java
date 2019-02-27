@@ -7,6 +7,7 @@ public class testCreateIndex {
         //指定索引库存的路径
         String indexDirectory = "D:\\temp\\index";
         //打开目录
+		//2222222222222222222
 
     }
 
